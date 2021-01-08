@@ -1,0 +1,19 @@
+{
+  "name": "angularp1",
+  "version": "1.0.0",
+  "description": "This is a small project in node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalidm1/AngularP1.git"
+  },
+  "author": "kh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalidm1/AngularP1/issues"
+  },
+  "homepage": "https://github.com/khalidm1/AngularP1#readme"
+}
